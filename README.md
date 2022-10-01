@@ -1,4 +1,2 @@
 # DSA-Questions-Sorting
-LeetCode questions based on sorting algorithms.
-
-🃏
+LeetCode questions based on sorting algorithms.🃏
